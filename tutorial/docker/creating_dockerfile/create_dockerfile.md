@@ -1,6 +1,6 @@
 ## What is a Dockerfile
 
-`Dockerfile` is a human-readable flat file (without extension), which uses very specific keywords that supervise specific docker image building process.
+`Dockerfile` is a human-readable flat file (without extension), which uses very specific keywords that supervise  docker image building process.
 
 ## Why use a `Dockerfile`
 
@@ -79,11 +79,10 @@ CMD ["npm", "start"]
 -   Use the extended docker commands section to edit the `Dockerfile`.
 -   Finally, save and close the `Dockerfile`.
 
-Voila!! Your `Dockerfile` is ready and your **App** is ready to build image and run it. You should be able to see the app running at `[http://localhost:8000/]` 
+Voila!! Your `Dockerfile` is ready and your **App** is ready to build image and run it. You should be able to see the app running at <http://localhost:8000/>.
 
 ## Demo
 
-Here is a demo of creating a [`Dockerfile` for R/Shiny app](https://github.com/vishwabaruah/compbio_zero2hero/blob/main/tutorial/docker/creating_dockerfile/dockerfile4shiny.md).
-Here is a demo of creating a [`Dockerfile` for node.js application](https://github.com/vishwabaruah/compbio_zero2hero/blob/main/tutorial/docker/creating_dockerfile/dockerfile4shiny.md).
+Here is a demo of a [`Dockerfile` for R/Shiny app](https://github.com/vishwabaruah/compbio_zero2hero/blob/main/tutorial/docker/creating_dockerfile/dockerfile4shiny.md).
 
-
+Here is another demo of a [`Dockerfile` for node.js application](https://github.com/vishwabaruah/compbio_zero2hero/blob/main/tutorial/docker/creating_dockerfile/dockerfile4shiny.md).
