@@ -1,5 +1,4 @@
-# How to get the gene_lengths.txt from gff3 file
-
+# How to get the gene_lengths.txt file using .gff3 file?
 
 
 To extract gene lengths from a GFF3 file, you can use bioinformatics tools and R libraries to process the file and calculate the lengths of genes based on their exons. Here's a step-by-step guide to obtaining a `gene_lengths.txt` file from a GFF3 file.
