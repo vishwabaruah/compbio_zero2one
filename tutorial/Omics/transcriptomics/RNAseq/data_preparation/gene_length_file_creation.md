@@ -1,3 +1,5 @@
+# How to get/create the gene_lengths.txt file?
+
 To generate the `gene_lengths.txt` file, you need the length of each gene or transcript, which is typically derived from gene annotation files, such as GTF or GFF3 files, that describe the genomic features (genes, exons, transcripts, etc.).
 
 Here's how to get gene lengths:
